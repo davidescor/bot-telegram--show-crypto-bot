@@ -2,7 +2,7 @@
 ![ShowCryptoBot](http://davidespier.com/github/ShowCryptoBot/ShowCryptoBot.png)
 
 # @ShowCryptoBot
-Save your images in the cloud.  Project made with javascript and firebase.
+You can ask for a cryptocurrency without having to put a command.<br> For example <strong> bitcoin </strong>, or also by symbol <strong> btc </strong>.
 
 ## Requirements
 
