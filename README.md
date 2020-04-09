@@ -15,7 +15,7 @@ You can ask for a cryptocurrency without having to put a command.<br> For exampl
 
 2. In the botfather chat write <strong>/newbot bot_name</strong>.
 
-3. Search and copy key in <strong>core/config.php</strong>.
+3. Search in <strong>@botfather</strong> your bot's api and paste key in <strong>core/config.php</strong>.
 
 
 ```bash
