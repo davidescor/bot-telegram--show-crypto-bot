@@ -27,7 +27,7 @@ Save your images in the cloud.  Project made with javascript and firebase.
 
 ```
 
-4. In the browser you have to set the path of the telegram api for the <strong>request.php</strong> file.
+4. In the browser you have to set the path of the telegram api for the <strong>request.php</strong> file.<br>
       Exchange token for your api token and change url for your domain, mandatory to have ssl certificate.
 
 
