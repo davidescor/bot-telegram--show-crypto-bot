@@ -21,9 +21,9 @@ include("core/api.php");
 		default:
 			for ($i = 0; $i <= 100; $i++) {
 			    if($name[$i]==$message || $symbol[$i] == $message){
-					$auxResponse = $name[$i]." has a value of ".round($priceUsd[$i],2)."$.";
-					$response = strval($auxResponse);
-					sendMessage($chatId, $response);
+					$auxResponse = ucfirst($name[$i])." has a value of ".round($priceUsd[$i],2)."$.";
+					$response = $auxResponse;
+					sendMessage($chatId, $response,);
 					break;
 			    }
 			}
