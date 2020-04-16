@@ -1,5 +1,5 @@
 ## Telegram : @ShowCryptoBot
-![ShowCryptoBot](http://davidespier.com/github/ShowCryptoBot/ShowCryptoBot.png)
+![ShowCryptoBot](http://davidespier.com/github/ShowCryptoBot.PNG)
 
 # @ShowCryptoBot
 You can ask for a cryptocurrency without having to put a command.<br> For example <strong> bitcoin </strong>, or also by symbol <strong> btc </strong>.
