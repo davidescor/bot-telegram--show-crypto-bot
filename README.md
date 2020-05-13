@@ -50,6 +50,8 @@ You can ask for a cryptocurrency without having to put a command.<br> For exampl
         
 [Other projects](https://github.com/davidespier?tab=repositories)
 
+[API coincap.io](https://api.coincap.io)
+
 
 
 ## License
